@@ -3,12 +3,13 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: orchid;
+    background: teal;
 }
 
 h1 {
     font-size: 13rem;
     font-family: 'Montserrat', sans-serif;
+    
 }
 
 .letter{
