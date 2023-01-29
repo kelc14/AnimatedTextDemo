@@ -1,0 +1,6 @@
+1. git branch name_of_branch OR git checkout -b name_of-Branch (plus automatically switches to it)
+2. fast forward vs. recursive (fast forward means all changes are on branches, nothing on previous branches while new changes being made)
+3. git checkout
+4. git branch -d name_of_branch
+5. merge conflicts happen when the same code is changed on multiple branches at the same time
+
